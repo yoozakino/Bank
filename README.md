@@ -1,3 +1,4 @@
 # Практическая работа 6 часть 1
 ## Результат работы программы
-![Снимок экрана 2025-03-24 094702](https://github.com/user-attachments/assets/9cdc8e7d-3c00-471a-8b68-d5db8f8a4453)
+![image](https://github.com/user-attachments/assets/073a94a7-4950-469c-a3e9-e0557a6bacf5)
+
