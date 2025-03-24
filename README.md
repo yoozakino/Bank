@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/125ad27e-5b4a-429d-aadf-9a50762ac678)# Практическая работа 6 часть 1
+# Практическая работа 6 часть 1
 ## Результат работы программы
 ![image](https://github.com/user-attachments/assets/073a94a7-4950-469c-a3e9-e0557a6bacf5)
 ## Тестовые методы
