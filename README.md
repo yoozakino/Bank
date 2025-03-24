@@ -99,7 +99,8 @@ namespace BankTests
 ```
 
 ## Обозреватель тестов
-![Тест 3 методов](https://github.com/user-attachments/assets/a06fff01-2dcc-49ab-a781-1b97b6209e01)
+![image](https://github.com/user-attachments/assets/a23bf651-704e-453c-aa5d-9ef2157711de)
+
 
 
 
